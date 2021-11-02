@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPP_Tracer", "SPP_Tracer\SPP_Tracer.csproj", "{9C0CF99C-DFB4-4C57-AC91-3AC5D8FD94B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracerLib", "TracerLib\TracerLib.csproj", "{BD59E6FC-17F9-44F6-8735-E4DB63E9B675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracerTEst", "TracerTEst\TracerTEst.csproj", "{4D312FEB-C012-42E0-B8F1-B5697702435F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0CF99C-DFB4-4C57-AC91-3AC5D8FD94B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0CF99C-DFB4-4C57-AC91-3AC5D8FD94B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0CF99C-DFB4-4C57-AC91-3AC5D8FD94B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0CF99C-DFB4-4C57-AC91-3AC5D8FD94B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD59E6FC-17F9-44F6-8735-E4DB63E9B675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD59E6FC-17F9-44F6-8735-E4DB63E9B675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD59E6FC-17F9-44F6-8735-E4DB63E9B675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD59E6FC-17F9-44F6-8735-E4DB63E9B675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D312FEB-C012-42E0-B8F1-B5697702435F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D312FEB-C012-42E0-B8F1-B5697702435F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D312FEB-C012-42E0-B8F1-B5697702435F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D312FEB-C012-42E0-B8F1-B5697702435F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB402A2C-A10A-4223-9C28-F4384C60DA71}
+	EndGlobalSection
+EndGlobal
